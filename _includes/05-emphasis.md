@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am currently an **MLH** intern. I'll be contributing to open source softwares.
+Our main languages include _TypeScript_ *JavaScript* and _React Js_
