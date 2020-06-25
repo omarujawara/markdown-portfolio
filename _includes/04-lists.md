@@ -1,3 +1,3 @@
-* progarmming :heart:
-* learning :sparkles:
+* progarmming 
+* learning 
 * Making money
