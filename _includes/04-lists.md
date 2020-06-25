@@ -1,0 +1,3 @@
+* progarmming 
+* learning 
+* Making money
